@@ -3,3 +3,18 @@
 百度云链接如下
 https://pan.baidu.com/s/1oJr2eWtcgYSe1tp5o26tBw
 提取码：g3l7
+
+下图是操作流程图
+phpstudy
+      ├─WWW
+          ├─Bugs.zip(解压后是Bugs文件夹)
+                ├─conn.php(修改里面的数据库用户名和密码)
+                ├─upload(自己创建)
+                       ├─10-14.zip(拖到这里解压)
+                       ├─15-a.zip(拖到这里解压)
+                       ├─15-b.zip(拖到这里解压)
+                       ├─16.zip(拖到这里解压)
+      ├─MySQL
+            ├─data
+                 ├─wooyun(自己创建)
+                        ├─wooyun.zip(拖到这里解压)
